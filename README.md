@@ -1,2 +1,4 @@
-# dataTables-bootstrap4-jquery
-dataTables Bootstrap4  -Jquery
+# Data Tables
+Made with Bootstrap 4  + Jquery
+
+Demo : https://susepsupriatna.github.io/filterable_gallery_lightbox/
